@@ -2,4 +2,5 @@
   (lib (name "KiCad")(type "KiCad")(uri "C:/Windows.old/Users/Robin/My Documents/KiCad/6.0/footprints/LIB_SRD-05VDC-SL-C (1)/SRD-05VDC-SL-C/KiCad")(options "")(descr ""))
   (lib (name "ULN2003ADR")(type "KiCad")(uri "C:/Windows.old/Users/Robin/My Documents/KiCad/6.0/footprints/ULN2003ADR")(options "")(descr ""))
   (lib (name "uln")(type "KiCad")(uri "C:/Windows.old/Users/Robin/My Documents/KiCad/6.0/footprints/ULN2003ADR/KiCad")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "KiCad")(uri "C:/Users/robin/Documents/KiCad/6.0/footprints/ESP32_mini_KiCad_Library-master/ESP32_mini.pretty")(options "")(descr ""))
 )

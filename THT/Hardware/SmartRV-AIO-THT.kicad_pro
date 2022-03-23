@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SmartRV-AIO.kicad_pro",
+    "filename": "SmartRV-AIO-THT.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -422,8 +422,6 @@
         "name": "pwrhigh",
         "nets": [
           "12v",
-          "Net-(J14-Pad1)",
-          "Net-(J14-Pad2)",
           "Net-(J15-Pad1)",
           "Net-(J15-Pad2)",
           "Net-(J16-Pad1)",
@@ -432,9 +430,6 @@
           "Net-(J17-Pad2)",
           "Net-(J18-Pad1)",
           "Net-(J18-Pad2)",
-          "Net-(J19-Pad1)",
-          "Net-(J19-Pad2)",
-          "Net-(J19-Pad3)",
           "Net-(J20-Pad1)",
           "Net-(J20-Pad2)",
           "Net-(J20-Pad3)"
