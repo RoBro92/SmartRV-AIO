@@ -14,16 +14,16 @@ The module has been kept as compact as possible and allows for a direct connecti
 
 ## **I have developed two seperate versions of this module**
 
-[V1 is THT and is suitable for at home soldering](#tht)
+[AIO1 is THT and is suitable for at home soldering](#aio1)
 
-[V2 is SMD and is designed to be assembled by a PCB manufacturer](#smd)
+[AIO2 is SMD and is designed to be assembled by a PCB manufacturer](#aio2)
 
-###THT
+###AIO1
 
-# **v0.1**
+# **THT Version 0.1**
 This is the pre production initial design files with planned features and initial designs.
 
-<<<<<<< HEAD
+
 # **Features**
 - [x] - ESP32 Microcontroller
 - [x] - Individually controlled relays
@@ -34,29 +34,6 @@ This is the pre production initial design files with planned features and initia
 - [x] - Spotlights/LED control & dimming
 - [x] - RJ45 Output to Nextion Display
 - [x] - Relay 1&2 are 12v direct supply for low current device 
-=======
-# **Planned Features**
-- [ ] ESP32 Microcontroller
-- [ ] Individually controlled relays
-- [ ] Input buttons 
-- [ ] Water tank temperature inputs
-- [ ] Water tank level inputs
-- [ ] Auxilliary temperature input
-- [ ] Auxilliary humidity input
-- [ ] Spotlights/LED control & dimming
-- [ ] RS485 serial connection
-- [ ] Bluetooth App
-- [ ] Bluetooth connection to external modules(such as Water tank module)
-- [ ] House battery voltage
-- [ ] Main battery voltage
-- [ ] On board programming
-- [ ] MQTT integration
-- [ ] Diesel heater control 
-- [ ] ESP-Now integration with external modules
-- [ ] SMD & THT versions
-- [ ] Solid state relay (MOSFET)
-- [ ] External Display
->>>>>>> b939644abd79121af55a22dabab834a77998efa1
 
 # **Upcoming Changes**
 
@@ -77,8 +54,8 @@ This is the pre production initial design files with planned features and initia
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="THT/images/Schematic.jpg" height=480></td>
-    <td><img src="THT/images/Schematic.jpg" height=480></td>
+    <td><img src="THT/Images/Schematic.jpg" height=480></td>
+    <td><img src="THT/Images/Schematic.jpg" height=480></td>
   </tr>
  </table>
 
@@ -86,4 +63,47 @@ This is the pre production initial design files with planned features and initia
 This board does not have any fuse protection as such this must be provided externally.
 
 
+###AIO2
 
+# **SMD Version 0.1**
+This is the pre production SMD initial design files with planned features and initial designs.
+
+
+# **Features**
+- [x] - ESP32 Microcontroller
+- [x] - Individually controlled relays
+- [x] - Input buttons 
+- [x] - Tank temperature inputs
+- [x] - Tank level inputs
+- [x] - Auxilliary temperature & humidity input
+
+
+# **Upcoming Changes**
+
+- [ ] - RS485 serial connection
+- [ ] - Bluetooth App
+- [ ] - Bluetooth connection to external modules(such as Water tank module)
+- [ ] - House battery voltage
+- [ ] - Main battery voltage
+- [ ] - On board programming
+- [ ] - MQTT integration
+- [ ] - Diesel heater control 
+- [ ] - RJ45 Output to Nextion Display
+- [ ] - Spotlights/LED control & dimming
+- [ ] - Relay 1&2 are 12v direct supply for low current device 
+
+# **Images**
+
+<table>
+  <tr>
+    <td>Schematic</td>
+     <td>PCB Layout</td>
+  </tr>
+  <tr>
+    <td><img src="SMD/Images/schematic.jpg" height=480></td>
+    <td><img src="THT/Images/Schematic.jpg" height=480></td>
+  </tr>
+ </table>
+
+# **WARNING**
+This board does not have any fuse protection as such this must be provided externally.
