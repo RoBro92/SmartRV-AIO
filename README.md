@@ -23,6 +23,7 @@ The module has been kept as compact as possible and allows for a direct connecti
 # **v0.1**
 This is the pre production initial design files with planned features and initial designs.
 
+<<<<<<< HEAD
 # **Features**
 - [x] - ESP32 Microcontroller
 - [x] - Individually controlled relays
@@ -33,6 +34,29 @@ This is the pre production initial design files with planned features and initia
 - [x] - Spotlights/LED control & dimming
 - [x] - RJ45 Output to Nextion Display
 - [x] - Relay 1&2 are 12v direct supply for low current device 
+=======
+# **Planned Features**
+- [ ] ESP32 Microcontroller
+- [ ] Individually controlled relays
+- [ ] Input buttons 
+- [ ] Water tank temperature inputs
+- [ ] Water tank level inputs
+- [ ] Auxilliary temperature input
+- [ ] Auxilliary humidity input
+- [ ] Spotlights/LED control & dimming
+- [ ] RS485 serial connection
+- [ ] Bluetooth App
+- [ ] Bluetooth connection to external modules(such as Water tank module)
+- [ ] House battery voltage
+- [ ] Main battery voltage
+- [ ] On board programming
+- [ ] MQTT integration
+- [ ] Diesel heater control 
+- [ ] ESP-Now integration with external modules
+- [ ] SMD & THT versions
+- [ ] Solid state relay (MOSFET)
+- [ ] External Display
+>>>>>>> b939644abd79121af55a22dabab834a77998efa1
 
 # **Upcoming Changes**
 
