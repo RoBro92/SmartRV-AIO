@@ -54,8 +54,8 @@ This is the pre production initial design files with planned features and initia
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="THT/Images/Schematic.jpg" height=480></td>
-    <td><img src="THT/Images/Schematic.jpg" height=480></td>
+    <td><img src="AIO1/Images/Schematic.jpg" height=480></td>
+    <td><img src="AIO1/Images/Pcblayout.jpg" height=480></td>
   </tr>
  </table>
 
@@ -100,8 +100,8 @@ This is the pre production SMD initial design files with planned features and in
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="SMD/Images/schematic.jpg" height=480></td>
-    <td><img src="THT/Images/Schematic.jpg" height=480></td>
+    <td><img src="AIO2/Images/schematic.jpg" height=480></td>
+    <td><img src="AIO1/Images/Pcblayout.jpg" height=480></td>
   </tr>
  </table>
 
